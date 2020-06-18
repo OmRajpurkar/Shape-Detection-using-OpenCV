@@ -7,4 +7,4 @@ Shape Detection using OpenCV is a demo project that I created as I was learning 
 
 ### Output Image
 
-<img src="https://github.com/OmRajpurkar/Shape-Detection-using-OpenCV/blob/master/Resources/shapesOutput.png" alt="alt text" width="400" height="400">
+<img src="https://github.com/OmRajpurkar/Shape-Detection-using-OpenCV/blob/master/Resources/shapeOutput.png" alt="alt text" width="400" height="400">
